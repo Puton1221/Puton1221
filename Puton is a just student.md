@@ -5,7 +5,7 @@ _Discord.js developper_ and studying _Javascript, CSS, HTML and more._
 ----
 
 The program under this is a my lifes operator lol.
-```
+```js
     const { client, HumanEye } = require('my-brain');
     client.on('wake up', asycnc human => {
       const eye = new HumanEye()
@@ -18,6 +18,6 @@ The program under this is a my lifes operator lol.
     })
 ```
 Out put:
-> I wanna sleep...
-> Because:
+> I wanna sleep...  
+> Because:  
 > He wanted sleep more, even he had slept for 7h :-(
