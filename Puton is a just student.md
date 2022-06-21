@@ -5,7 +5,7 @@ _Discord.js developper_ and studying _Javascript, CSS, HTML and more._
 ----
 
 The program under this is a my lifes operator lol.
-`
+```
     const { client, HumanEye } = require('my-brain');
     client.on('wake up', asycnc human => {
       const eye = new HumanEye()
@@ -16,7 +16,7 @@ The program under this is a my lifes operator lol.
       .then(console.log('Good morning sir.'))
       .catch(error => {console.log('I wanna sleep...\n' + error)})
     })
-`
+```
 Out put:
 > I wanna sleep...
 > Because:
